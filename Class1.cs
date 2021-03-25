@@ -6,5 +6,7 @@ namespace ConsoleApp4
 {
     class Class1
     {
+       
+     
     }
 }
